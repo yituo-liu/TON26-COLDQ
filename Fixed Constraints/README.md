@@ -11,4 +11,4 @@ This code requires the following libraries to run:
 
 # Notes on Implementation
 ### Fixed Constraints
-For the Experiment on TFixed Constraints, please run different algorithm files separately. After all files have been run once and results have been saved, create an additional file to plot the images.
+For the Experiment on Fixed Constraints, please run different algorithm files separately. After all files have been run once and results have been saved, create an additional file to plot the images.
